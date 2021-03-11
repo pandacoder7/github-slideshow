@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+- [x] Task completed :feet: :angel:
 Use the left arrow to go back!
